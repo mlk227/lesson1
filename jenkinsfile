@@ -3,7 +3,7 @@ import java.net.URL
 import hudson.model.*
 
 	// code comment
-        // code updateed 
+        // code updated 
 node{
     stage('Git Checkout'){
 	git 'https://github.com/mlk227/DevOpsClassCodes.git'
